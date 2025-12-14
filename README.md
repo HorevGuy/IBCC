@@ -1,5 +1,3 @@
-## Project Logo
-
 <div align="center">
   <img src="images/IBCC-logo@2x.png" alt="IBCC Project Logo" width="300"/>
 </div>
